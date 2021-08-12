@@ -1,0 +1,5 @@
+graft src/assets
+graft src/static
+graft src/templates
+graft src/users
+include src/schema.sql

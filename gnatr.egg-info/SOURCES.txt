@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+gnatr.egg-info/PKG-INFO
+gnatr.egg-info/SOURCES.txt
+gnatr.egg-info/dependency_links.txt
+gnatr.egg-info/requires.txt
+gnatr.egg-info/top_level.txt
+src/__init__.py
+src/main.py
+src/schema.sql
